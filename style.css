@@ -1,0 +1,70 @@
+h1{
+	font-family: montserrat;
+	text-align: center;
+	background-color:skyblue;
+	color:black;
+	padding: 15px;
+}
+hr{
+	border:2px dotted black;
+	width: 50%;
+}
+p{
+	font-family: Montserrat;
+	margin-left: 100px; 
+margin-right: 100px;
+margin-top: 25xp; 
+}
+img {
+  
+  
+  margin-top: 50px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  filter: grayscale(15%);
+  
+}
+.special_para{
+	font-size: 20px;
+}
+#this_one_is_special{
+	color: red;
+}
+header{background-color: black;
+padding: 10px;}
+ul
+{
+	list-style: none;
+	
+}
+li{
+	display: inline;
+	margin: 100px;
+	
+}
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: Montserrat;
+}
+li a:hover{
+	color: yellow;
+	text-decoration: none;
+	
+}
+footer{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+
+
+
+
+
